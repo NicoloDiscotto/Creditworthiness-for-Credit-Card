@@ -11,10 +11,6 @@ Building a predictive model to assess a customer's creditworthiness, in order to
 - Training classification models (Logistic Regression, Random Forest, etc.)
 - Performance evaluation (Accuracy, ROC AUC, Confusion Matrix)
   
-## Datasets
-
-🔗 [credit_scoring.csv](https://github.com/NicoloDiscotto/Creditworthiness-for-Credit-Card/credit_scoring.csv)
-
 ## Library
 
 - `scikit-learn`
